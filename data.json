@@ -1,0 +1,77 @@
+{
+ "updated": "2026-11-12T09:38:04.688251+07:00",
+ "items": [
+  {
+   "code": "VNINDEX",
+   "name": "VN-Index",
+   "source": null,
+   "last": null,
+   "ref": null,
+   "change": null,
+   "pct": null,
+   "value_bn": null,
+   "spark": [],
+   "spark_kind": null
+  },
+  {
+   "code": "VN30",
+   "name": "VN30",
+   "source": null,
+   "last": null,
+   "ref": null,
+   "change": null,
+   "pct": null,
+   "value_bn": null,
+   "spark": [],
+   "spark_kind": null
+  },
+  {
+   "code": "HNXINDEX",
+   "name": "HNX-Index",
+   "source": null,
+   "last": null,
+   "ref": null,
+   "change": null,
+   "pct": null,
+   "value_bn": null,
+   "spark": [],
+   "spark_kind": null
+  },
+  {
+   "code": "UPCOMINDEX",
+   "name": "UPCoM-Index",
+   "source": null,
+   "last": null,
+   "ref": null,
+   "change": null,
+   "pct": null,
+   "value_bn": null,
+   "spark": [],
+   "spark_kind": null
+  }
+ ],
+ "errors": [
+  "daily_vndirect(VNINDEX): <urlopen error timed out>",
+  "daily_tcbs(VNINDEX): HTTP Error 404: Not Found",
+  "daily_vps(VNINDEX): <urlopen error timed out>",
+  "intraday_vps(VNINDEX): <urlopen error timed out>",
+  "daily_vndirect(VN30): <urlopen error timed out>",
+  "daily_tcbs(VN30): HTTP Error 404: Not Found",
+  "daily_vps(VN30): <urlopen error timed out>",
+  "intraday_vps(VN30): <urlopen error timed out>",
+  "daily_vndirect(HNXINDEX): <urlopen error timed out>",
+  "daily_tcbs(HNXINDEX): HTTP Error 404: Not Found",
+  "daily_vps(HNXINDEX): <urlopen error timed out>",
+  "daily_vps(HNX): <urlopen error timed out>",
+  "intraday_vps(HNXINDEX): <urlopen error timed out>",
+  "intraday_vps(HNX): <urlopen error timed out>",
+  "daily_vndirect(UPCOMINDEX): <urlopen error timed out>",
+  "daily_tcbs(UPCOMINDEX): HTTP Error 404: Not Found",
+  "daily_vps(UPCOMINDEX): <urlopen error timed out>",
+  "daily_vps(HNXUPCOMINDEX): <urlopen error timed out>",
+  "daily_vps(UPCOM): <urlopen error timed out>",
+  "intraday_vps(UPCOMINDEX): <urlopen error timed out>",
+  "intraday_vps(HNXUPCOMINDEX): <urlopen error timed out>",
+  "intraday_vps(UPCOM): <urlopen error timed out>"
+ ]
+}
